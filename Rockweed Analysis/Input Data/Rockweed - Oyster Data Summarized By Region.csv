@@ -1,0 +1,9 @@
+Region,Datasonde_Code,Datasonde_Name,Max_Salinity_Below_10_psu,Monthly_Mean_Salinity_psu,Monthly_Max_Salinity_psu,Monthly_Min_Salinity_psu,Intertidal_Zone_acre,Rockweed_Area_acre,Rockweed_Standardized_Intertidal_Area,Rockweed_Cover,Rockweed_Depth_cm,Rockweed_Length_cm,Ascophyllum_Age,Oyster_Density,Oyster_Height_mm,Blue_Mussel_Density,Blue_Mussel_Height,Ribbed_Mussel_Density,Ribbed_Mussel_Height
+Bellamy River,GRBBBR,Upper Bellamy River,18.3,20.9,26.3,6.5,262.63,0.68,0.0026,90.3,7.8,86.7,8.67,1.6,42.8,0,,0.1,66
+Cocheco & Salmon Falls River,GRBUPR,Pisctaqua River Upstream,14.1,23.6,28.7,9.8,629.49,2.36,0.0037,95,10.8,94.3,10,0,,0,,0,
+Great Bay,GRBGB,Great Bay,1.8,25.7,28.4,18.3,505.34,15.7,0.0311,82.8,6.6,88.9,7.9,7.6,55.9,0,,12.4,64.3
+Litte Bay,GRBULB,Little Bay,1.8,25.6,29.1,20.8,177.36,13.81,0.0779,91.4,7.9,79.4,8.1,2.6,39.5,1.7,56.4,0.06,49
+Oyster River,GRBOR,Oyster River,2.7,22.8,27.3,5.9,235.69,1.28,0.0054,86.1,5.5,60.4,7.2,3.4,56.2,0,,0.6,49.3
+Pisctaqua River,GRBLPR,Piscataqua River,0,27.4,30.9,20.5,95.4,8.42,0.0883,79,8.4,72,9.8,0,,1.7,50.8,0,
+Portsmouth Harbor & Seavey Island,GRBCML,Coastal Marine Lab,0.4,30.3,31.6,20.3,883.15,101.34,0.1147,90.4,8.5,62.6,9.1,0.1,40,0.8,31.9,0,
+Lamprey and Squamscott River,GRBSQ,Squamscott Railroad,43.9,20.4,27.2,6,407.49,0,0,,,,,,,,,,
